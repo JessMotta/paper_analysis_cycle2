@@ -1,0 +1,41 @@
+\documentclass[aspectratio=169]{beamer} % dvipsnames gives more built-in colors
+
+\usepackage{}
+\usepackage{bibentry}
+\usetheme{Madrid}
+\useoutertheme{miniframes} % Alternatively: miniframes, infolines, split
+\useinnertheme{circles}
+
+\definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667} % UBC Blue (primary)
+
+\usecolortheme[named=UBCblue]{structure}
+% \usecolortheme[named=Mahogany]{structure} % Sample dvipsnames color
+
+\title[DP in semantic segmentation]{A survey on deep learning techniques in image and video semantic segmentation (paper analysis)}
+\date{\today}
+\author[Jessica Motta]{Jessica Motta}
+\institute[Senai Cimatec]{Senai Cimatec}
+
+\graphicspath{{Media/pictures/}}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\input{Sections/01-concept-map}
+\input{Sections/02-cnn}
+\input{Sections/03-common-arch}
+\input{Sections/04-methods}
+\input{Sections/05-evaluation-metrics}
+\input{Sections/06-analysis}
+
+    
+    \begin{frame}[t, allowframebreaks]
+        \frametitle{References}
+        \bibliographystyle{amsalpha}
+        \bibliography{biblio}
+    \end{frame}
+
+\end{document}

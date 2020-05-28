@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: presentation.aux
+The style file: amsalpha.bst
+Database file #1: biblio.bib
+Warning--entry type for "CNN" isn't style-file defined
+--line 20 of file biblio.bib
+Warning--entry type for "IoU" isn't style-file defined
+--line 28 of file biblio.bib
+You've used 4 entries,
+            2624 wiz_defined-function locations,
+            582 strings with 5071 characters,
+and the built_in function-call counts, 1808 in all, are:
+= -- 156
+> -- 106
+< -- 2
++ -- 39
+- -- 38
+* -- 143
+:= -- 298
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 32
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 69
+empty$ -- 127
+format.name$ -- 42
+if$ -- 359
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 80
+swap$ -- 12
+text.length$ -- 2
+text.prefix$ -- 2
+top$ -- 0
+type$ -- 32
+warning$ -- 0
+while$ -- 15
+width$ -- 8
+write$ -- 50
+(There were 2 warnings)
