@@ -1,4 +1,38 @@
 %*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[t]{Accuracy results } %pensar no que colocar
+        \begin{table}[]
+                \scalefont{0.55}
+                \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+                \hline
+                \multicolumn{10}{|c|}{\textbf{COMPARATIVE ACCURACY RESULTS (METHODS AND DATASETS) (\%)}}     \\ \hline
+                \textbf{Method / Dataset} &
+                  \textbf{\begin{tabular}[c]{@{}c@{}}PASCAL \\ VOC-2012\end{tabular}} &
+                  \textbf{\begin{tabular}[c]{@{}c@{}}Pascal- Person- \\ Part\end{tabular}} &
+                  \textbf{CamVid} &
+                  \textbf{CityScapes} &
+                  \textbf{\begin{tabular}[c]{@{}c@{}}Stanford \\ Background\end{tabular}} &
+                  \textbf{SiftFlow} &
+                  \textbf{SUN3D} &
+                  \textbf{\begin{tabular}[c]{@{}c@{}}ShapeNet \\ Part\end{tabular}} &
+                  \textbf{\begin{tabular}[c]{@{}c@{}}Youtube- \\ Objects\end{tabular}} \\ \hline
+                \textbf{PSPNet}            & 85,4 &       &       &       &       &  &       &       &       \\ \hline
+                \textbf{DeepLab}           &      & 64,94 &       &       &       &  &       &       &       \\ \hline
+                \textbf{DAG-RNN}           &      &       & 91,60 &       &       &  &       &       &       \\ \hline
+                \textbf{rCNN}              &      &       &       &       & 80,20 &  &       &       &       \\ \hline
+                \textbf{LSTM-CF}           &      &       &       &       &       &  & 58,50 &       &       \\ \hline
+                \textbf{PointNet}          &      &       &       &       &       &  &       & 83,70 &       \\ \hline
+                \textbf{PointNet++}        &      &       &       &       &       &  &       & 85,10 &       \\ \hline
+                \textbf{DGCNN}             &      &       &       &       &       &  &       & 85,10 &       \\ \hline
+                \textbf{Clockwork Convent} &      &       &       &       &       &  &       &       & 68,50 \\ \hline
+                \textbf{SegmPred}          &      &       &       & 59,40 &       &  &       &       &       \\ \hline
+                \end{tabular}
+                \caption{Accuracy results for the most relevant methods and dataset. \cite{garcia2018survey}}
+                \label{tab:accuracy_results}
+                \end{table}
+\end{frame}
+
+
+%*----------- SLIDE -------------------------------------------------------------
 \begin{frame}[t]{Limitations} %pensar no que colocar
    
 \end{frame}
