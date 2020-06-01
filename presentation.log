@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.13)  1 JUN 2020 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.13)  1 JUN 2020 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -715,25 +715,33 @@ Overfull \vbox (10.12872pt too high) detected at line 8
 [5
 
  </home/jess/paper_analysis_cycle2/Media/pictures/methods.png>]) (/home/jess/paper_analysis_cycle2/Sections/05-evaluation-metrics.tex
-<Media/pictures/accuracy.png, id=172, 225.84375pt x 225.84375pt>
-File: Media/pictures/accuracy.png Graphic file (type png)
-<use Media/pictures/accuracy.png>
-Package pdftex.def Info: Media/pictures/accuracy.png  used on input line 22.
-(pdftex.def)             Requested size: 75.83652pt x 75.83817pt.
+<Media/pictures/performance_metrics.jpg, id=172, 513.92pt x 206.7725pt>
+File: Media/pictures/performance_metrics.jpg Graphic file (type jpg)
+<use Media/pictures/performance_metrics.jpg>
+Package pdftex.def Info: Media/pictures/performance_metrics.jpg  used on input line 21.
+(pdftex.def)             Requested size: 182.00719pt x 73.22963pt.
 
-Overfull \hbox (94.87999pt too wide) in paragraph at lines 22--22
-[][]|   
+Overfull \hbox (30.33414pt too wide) in paragraph at lines 21--21
+ []
  []
 
 [6
 
- </home/jess/paper_analysis_cycle2/Media/pictures/accuracy.png>]
-<Media/pictures/iou.png, id=200, 602.25pt x 248.93pt>
+ </home/jess/paper_analysis_cycle2/Media/pictures/performance_metrics.jpg>]
+<Media/pictures/iou_calc.png, id=199, 301.125pt x 234.8775pt>
+File: Media/pictures/iou_calc.png Graphic file (type png)
+<use Media/pictures/iou_calc.png>
+Package pdftex.def Info: Media/pictures/iou_calc.png  used on input line 33.
+(pdftex.def)             Requested size: 173.33496pt x 135.20761pt.
+ [7
+
+ </home/jess/paper_analysis_cycle2/Media/pictures/iou_calc.png>]
+<Media/pictures/iou.png, id=230, 602.25pt x 248.93pt>
 File: Media/pictures/iou.png Graphic file (type png)
 <use Media/pictures/iou.png>
-Package pdftex.def Info: Media/pictures/iou.png  used on input line 33.
+Package pdftex.def Info: Media/pictures/iou.png  used on input line 44.
 (pdftex.def)             Requested size: 260.00905pt x 107.47461pt.
- [7
+ [8
 
  </home/jess/paper_analysis_cycle2/Media/pictures/iou.png>]) (/home/jess/paper_analysis_cycle2/Sections/06-analysis.tex
 LaTeX Font Info:    Calculating math sizes for size <6.02252> on input line 32.
@@ -754,17 +762,29 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.21574> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.01126> not available
 (Font)              size <5> substituted on input line 32.
 
-[8
+[9
 
-] [9
+]
+<Media/pictures/dnn.png, id=289, 707.64375pt x 646.415pt>
+File: Media/pictures/dnn.png Graphic file (type png)
+<use Media/pictures/dnn.png>
+Package pdftex.def Info: Media/pictures/dnn.png  used on input line 51.
+(pdftex.def)             Requested size: 136.5048pt x 124.68433pt.
+ [10
 
-] [10
+ </home/jess/paper_analysis_cycle2/Media/pictures/dnn.png>]
+<Media/pictures/example.png, id=317, 780.9175pt x 652.4375pt>
+File: Media/pictures/example.png Graphic file (type png)
+<use Media/pictures/example.png>
+Package pdftex.def Info: Media/pictures/example.png  used on input line 77.
+(pdftex.def)             Requested size: 136.5048pt x 114.0389pt.
+ [11
 
-] [11
+ </home/jess/paper_analysis_cycle2/Media/pictures/example.png>] [12
 
-] [12
+]) (/home/jess/paper_analysis_cycle2/Sections/07-conclusion.tex [13
 
-]) (/home/jess/paper_analysis_cycle2/presentation.bbl) [13
+]) (/home/jess/paper_analysis_cycle2/presentation.bbl) [14
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -776,11 +796,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.01126> not available
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (/home/jess/paper_analysis_cycle2/presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -790,18 +810,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 17281 strings out of 492982
- 332771 string characters out of 6134896
- 411350 words of memory out of 5000000
- 20375 multiletter control sequences out of 15000+600000
+ 17305 strings out of 492982
+ 333417 string characters out of 6134896
+ 411378 words of memory out of 5000000
+ 20391 multiletter control sequences out of 15000+600000
  18549 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,812b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on /home/jess/paper_analysis_cycle2/presentation.pdf (13 pages, 1027523 bytes).
+Output written on /home/jess/paper_analysis_cycle2/presentation.pdf (14 pages, 1615277 bytes).
 PDF statistics:
- 424 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
- 33 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 458 PDF objects out of 1000 (max. 8388607)
+ 404 compressed objects within 5 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

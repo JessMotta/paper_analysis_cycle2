@@ -27,4 +27,7 @@ Adrian Rosebrock, \emph{Intersection over union (iou) for object detection},
 \bibitem[Sha19]{CNN}
 Shashikant, \emph{Convolutional neural network: A step by step guide}, 2019.
 
+\bibitem[Tiu19]{ioucalc}
+Ekin Tiu, \emph{Metrics to evaluate your semantic segmentation model}, 2019.
+
 \end{thebibliography}
