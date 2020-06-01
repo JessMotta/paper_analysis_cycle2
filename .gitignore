@@ -1,0 +1,16 @@
+Template
+Sections
+
+*.bib
+*.aux
+*.fls
+*.toc
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.tex
+*.fdb_latexmk
+*.bbl
+*.blg
