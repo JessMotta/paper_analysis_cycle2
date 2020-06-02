@@ -2,6 +2,15 @@
 
 \usepackage{}
 \usepackage{bibentry}
+\usepackage{scalefnt}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+% \usepackage{multimedia}
+\usepackage{media9}
+
+% \epstopdfDeclareGraphicsRule{.gif}{png}{.png}{convert gif:#1 png:\OutputFile}
+% \AppendGraphicsExtensions{.gif}
+
 \usetheme{Madrid}
 \useoutertheme{miniframes} % Alternatively: miniframes, infolines, split
 \useinnertheme{circles}
@@ -11,10 +20,16 @@
 \usecolortheme[named=UBCblue]{structure}
 % \usecolortheme[named=Mahogany]{structure} % Sample dvipsnames color
 
-\title[DP in semantic segmentation]{A survey on deep learning techniques in image and video semantic segmentation (paper analysis)}
-\date{\today}
-\author[Jessica Motta]{Jessica Motta}
-\institute[Senai Cimatec]{Senai Cimatec}
+\title[DP in semantic segmentation]{A survey on deep learning techniques in image and video semantic segmentation}
+\subtitle{(paper analysis)}
+\date{June, 2020}
+
+\author[J\'{e}ssica Motta]{J\'{e}ssica Motta}
+\institute[SENAI CIMATEC]{SENAI CIMATEC}
+\titlegraphic{\begin{flushright}
+  \includegraphics[width=2cm]{Template/logosenaicimatec}
+\end{flushright} 
+}
 
 \graphicspath{{Media/pictures/}}
 
@@ -30,6 +45,8 @@
 \input{Sections/04-methods}
 \input{Sections/05-evaluation-metrics}
 \input{Sections/06-analysis}
+\input{Sections/07-conclusion}
+
 
     
     \begin{frame}[t, allowframebreaks]
