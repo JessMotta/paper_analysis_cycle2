@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.13)  2 JUN 2020 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.13)  2 JUN 2020 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -519,23 +519,242 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 456.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/home/jess/paper_analysis_cycle2/presentation.aux)
+))) (/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count154
+\l_tmpa_int=\count155
+\l_tmpb_int=\count156
+\g_tmpa_int=\count157
+\g_tmpb_int=\count158
+\g__intarray_font_int=\count159
+\g__prg_map_int=\count160
+\c_log_iow=\count161
+\l_iow_line_count_int=\count162
+\l__iow_line_target_int=\count163
+\l__iow_one_indent_int=\count164
+\l__iow_indent_int=\count165
+\c_zero_dim=\dimen190
+\c_max_dim=\dimen191
+\l_tmpa_dim=\dimen192
+\l_tmpb_dim=\dimen193
+\g_tmpa_dim=\dimen194
+\g_tmpb_dim=\dimen195
+\c_zero_skip=\skip57
+\c_max_skip=\skip58
+\l_tmpa_skip=\skip59
+\l_tmpb_skip=\skip60
+\g_tmpa_skip=\skip61
+\g_tmpb_skip=\skip62
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count166
+\c__fp_leading_shift_int=\count167
+\c__fp_middle_shift_int=\count168
+\c__fp_trailing_shift_int=\count169
+\c__fp_big_leading_shift_int=\count170
+\c__fp_big_middle_shift_int=\count171
+\c__fp_big_trailing_shift_int=\count172
+\c__fp_Bigg_leading_shift_int=\count173
+\c__fp_Bigg_middle_shift_int=\count174
+\c__fp_Bigg_trailing_shift_int=\count175
+\c__fp_rand_size_int=\count176
+\c__fp_rand_four_int=\count177
+\c__fp_rand_eight_int=\count178
+\l__sort_length_int=\count179
+\l__sort_min_int=\count180
+\l__sort_top_int=\count181
+\l__sort_max_int=\count182
+\l__sort_true_max_int=\count183
+\l__sort_block_int=\count184
+\l__sort_begin_int=\count185
+\l__sort_end_int=\count186
+\l__sort_A_int=\count187
+\l__sort_B_int=\count188
+\l__sort_C_int=\count189
+\l__tl_build_start_index_int=\count190
+\l__tl_build_index_int=\count191
+\l__tl_analysis_normal_int=\count192
+\l__tl_analysis_index_int=\count193
+\l__tl_analysis_nesting_int=\count194
+\l__tl_analysis_type_int=\count195
+\l__regex_internal_a_int=\count196
+\l__regex_internal_b_int=\count197
+\l__regex_internal_c_int=\count198
+\l__regex_balance_int=\count199
+\l__regex_group_level_int=\count266
+\l__regex_mode_int=\count267
+\c__regex_cs_in_class_mode_int=\count268
+\c__regex_cs_mode_int=\count269
+\l__regex_catcodes_int=\count270
+\l__regex_default_catcodes_int=\count271
+\c__regex_catcode_D_int=\count272
+\c__regex_catcode_S_int=\count273
+\c__regex_catcode_L_int=\count274
+\c__regex_catcode_O_int=\count275
+\c__regex_catcode_A_int=\count276
+\c__regex_all_catcodes_int=\count277
+\l__regex_show_lines_int=\count278
+\l__regex_min_state_int=\count279
+\l__regex_max_state_int=\count280
+\l__regex_left_state_int=\count281
+\l__regex_right_state_int=\count282
+\l__regex_capturing_group_int=\count283
+\l__regex_min_pos_int=\count284
+\l__regex_max_pos_int=\count285
+\l__regex_curr_pos_int=\count286
+\l__regex_start_pos_int=\count287
+\l__regex_success_pos_int=\count288
+\l__regex_curr_char_int=\count289
+\l__regex_curr_catcode_int=\count290
+\l__regex_last_char_int=\count291
+\l__regex_case_changed_char_int=\count292
+\l__regex_curr_state_int=\count293
+\l__regex_step_int=\count294
+\l__regex_min_active_int=\count295
+\l__regex_max_active_int=\count296
+\l__regex_replacement_csnames_int=\count297
+\l__regex_match_count_int=\count298
+\l__regex_min_submatch_int=\count299
+\l__regex_submatch_int=\count300
+\l__regex_zeroth_submatch_int=\count301
+\g__regex_trace_regex_int=\count302
+\c_empty_box=\box53
+\l_tmpa_box=\box54
+\l_tmpb_box=\box55
+\g_tmpa_box=\box56
+\g_tmpb_box=\box57
+\l__box_top_dim=\dimen196
+\l__box_bottom_dim=\dimen197
+\l__box_left_dim=\dimen198
+\l__box_right_dim=\dimen199
+\l__box_top_new_dim=\dimen256
+\l__box_bottom_new_dim=\dimen257
+\l__box_left_new_dim=\dimen258
+\l__box_right_new_dim=\dimen259
+\l__box_internal_box=\box58
+\l__coffin_internal_box=\box59
+\l__coffin_internal_dim=\dimen260
+\l__coffin_offset_x_dim=\dimen261
+\l__coffin_offset_y_dim=\dimen262
+\l__coffin_x_dim=\dimen263
+\l__coffin_y_dim=\dimen264
+\l__coffin_x_prime_dim=\dimen265
+\l__coffin_y_prime_dim=\dimen266
+\c_empty_coffin=\box60
+\l__coffin_aligned_coffin=\box61
+\l__coffin_aligned_internal_coffin=\box62
+\l_tmpa_coffin=\box63
+\l_tmpb_coffin=\box64
+\l__coffin_display_coffin=\box65
+\l__coffin_display_coord_coffin=\box66
+\l__coffin_display_pole_coffin=\box67
+\l__coffin_display_offset_dim=\dimen267
+\l__coffin_display_x_dim=\dimen268
+\l__coffin_display_y_dim=\dimen269
+\l__coffin_bounding_shift_dim=\dimen270
+\l__coffin_left_corner_dim=\dimen271
+\l__coffin_right_corner_dim=\dimen272
+\l__coffin_bottom_corner_dim=\dimen273
+\l__coffin_top_corner_dim=\dimen274
+\l__coffin_scaled_total_height_dim=\dimen275
+\l__coffin_scaled_width_dim=\dimen276
+) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count303
+\l__driver_tmp_box=\box68
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count304
+\g__xparse_grabber_int=\count305
+\l__xparse_m_args_int=\count306
+\l__xparse_mandatory_args_int=\count307
+\l__xparse_v_nesting_int=\count308
+)
+Package: media9 2018/02/28 v0.90 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count309
+ (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2018/02/28 v0.21 driver independent access to low-level PDF features
+\g_pbs_page_int=\count310
+\g_pbs_oc_int=\count311
+) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count312
+)
+\l_mix_poster_box=\box69
+\g_mix_wd_dim=\dimen277
+\g_mix_ht_dim=\dimen278
+\g_mix_dp_dim=\dimen279
+\g_mix_rmcnt_int=\count313
+\l_mix_viewcnt_int=\count314
+\g@mix@page@int=\count315
+\g_mix_resizeflag_int=\count316
+\l_mix_lineno_int=\count317
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addmediapath with sig. 'm' on line 804.
+.................................................
+\l_mix_pbtn_box=\box70
+\mix@btn@dim=\dimen280
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \includemedia with sig. 'O{}mm' on line 1212.
+.................................................
+\g_mix_mbtncnt_int=\count318
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mediabutton with sig. 'O{}m' on line 2418.
+.................................................
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen281
+\captionmargin@=\dimen282
+\captionwidth=\dimen283
+\caption@tempdima=\dimen284
+\caption@indent=\dimen285
+\caption@parindent=\dimen286
+\caption@hangindent=\dimen287
+)
+\c@ContinuedFloat=\count319
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+\c@subfigure=\count320
+\c@subtable=\count321
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/home/jess/paper_analysis_cycle2/presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -573,83 +792,83 @@ LaTeX Font Info:    ... okay on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count154
-\scratchdimen=\dimen190
-\scratchbox=\box53
-\nofMPsegments=\count155
-\nofMParguments=\count156
+\scratchcounter=\count322
+\scratchdimen=\dimen288
+\scratchbox=\box71
+\nofMPsegments=\count323
+\nofMParguments=\count324
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count157
-\MPscratchDim=\dimen191
-\MPnumerator=\count158
-\makeMPintoPDFobject=\count159
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen289
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks44
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 34.
+\AtBeginShipoutBox=\box72
+Package hyperref Info: Link coloring OFF on input line 37.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count160
+\c@section@level=\count328
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (/home/jess/paper_analysis_cycle2/presentation.out) (/home/jess/paper_analysis_cycle2/presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 37.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 37.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 34.
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 37.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 34.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 37.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -662,35 +881,88 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (/home/jess/paper_analysis_cycle2/presentation.nav)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box73
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen290
+\pgf@nodesepend=\dimen291
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen292
+\pgffor@skip=\dimen293
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count329
+\pgfplotmarksize=\dimen294
+)
+\tikz@lastx=\dimen295
+\tikz@lasty=\dimen296
+\tikz@lastxsaved=\dimen297
+\tikz@lastysaved=\dimen298
+\tikzleveldistance=\dimen299
+\tikzsiblingdistance=\dimen300
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count330
+\tikznumberofchildren=\count331
+\tikznumberofcurrentchild=\count332
+\tikz@fig@count=\count333
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count334
+\pgfmatrixcurrentcolumn=\count335
+\pgf@matrix@numberofcolumns=\count336
+)
+\tikz@expandcount=\count337
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+))) (/home/jess/paper_analysis_cycle2/presentation.nav)
 <Template/logosenaicimatec.jpg, id=20, 1003.75pt x 307.1475pt>
 File: Template/logosenaicimatec.jpg Graphic file (type jpg)
 <use Template/logosenaicimatec.jpg>
-Package pdftex.def Info: Template/logosenaicimatec.jpg  used on input line 38.
+Package pdftex.def Info: Template/logosenaicimatec.jpg  used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 17.41104pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jess/paper_analysis_cycle2/Template/logosenaicimatec.jpg>] (/home/jess/paper_analysis_cycle2/Sections/01-concept-map.tex
-<Media/pictures/concept_map_paper2_jess.jpg, id=55, 1712.3975pt x 702.625pt>
-File: Media/pictures/concept_map_paper2_jess.jpg Graphic file (type jpg)
-<use Media/pictures/concept_map_paper2_jess.jpg>
-Package pdftex.def Info: Media/pictures/concept_map_paper2_jess.jpg  used on input line 7.
+<Media/pictures/concept_map_paper2_jess.png, id=55, 1712.3975pt x 702.625pt>
+File: Media/pictures/concept_map_paper2_jess.png Graphic file (type png)
+<use Media/pictures/concept_map_paper2_jess.png>
+Package pdftex.def Info: Media/pictures/concept_map_paper2_jess.png  used on input line 7.
 (pdftex.def)             Requested size: 411.67549pt x 168.91219pt.
 
-Overfull \vbox (26.81494pt too high) detected at line 7
+Overfull \vbox (23.2705pt too high) detected at line 7
  []
 
 [2
 
- </home/jess/paper_analysis_cycle2/Media/pictures/concept_map_paper2_jess.jpg>]) (/home/jess/paper_analysis_cycle2/Sections/02-cnn.tex
-<Media/pictures/1_cnn.jpeg, id=82, 1259.70625pt x 425.59pt>
-File: Media/pictures/1_cnn.jpeg Graphic file (type jpg)
-<use Media/pictures/1_cnn.jpeg>
-Package pdftex.def Info: Media/pictures/1_cnn.jpeg  used on input line 8.
+ </home/jess/paper_analysis_cycle2/Media/pictures/concept_map_paper2_jess.png>]) (/home/jess/paper_analysis_cycle2/Sections/02-cnn.tex
+<Media/pictures/cnn.jpeg, id=83, 1259.70625pt x 425.59pt>
+File: Media/pictures/cnn.jpeg Graphic file (type jpg)
+<use Media/pictures/cnn.jpeg>
+Package pdftex.def Info: Media/pictures/cnn.jpeg  used on input line 8.
 (pdftex.def)             Requested size: 390.00697pt x 131.76268pt.
  [3
 
- </home/jess/paper_analysis_cycle2/Media/pictures/1_cnn.jpeg>]) (/home/jess/paper_analysis_cycle2/Sections/03-common-arch.tex
+ </home/jess/paper_analysis_cycle2/Media/pictures/cnn.jpeg>]) (/home/jess/paper_analysis_cycle2/Sections/03-common-arch.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 20.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -705,21 +977,36 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mat
 ) [4
 
 ]) (/home/jess/paper_analysis_cycle2/Sections/04-methods.tex
-<Media/pictures/methods.png, id=142, 468.61389pt x 298.20885pt>
+<Media/pictures/methods.png, id=145, 468.61389pt x 298.20885pt>
 File: Media/pictures/methods.png Graphic file (type png)
 <use Media/pictures/methods.png>
 Package pdftex.def Info: Media/pictures/methods.png  used on input line 8.
 (pdftex.def)             Requested size: 238.34053pt x 151.67041pt.
 
-Overfull \vbox (10.12872pt too high) detected at line 8
+Overfull \vbox (6.02872pt too high) detected at line 8
  []
 
 [5
 
- </home/jess/paper_analysis_cycle2/Media/pictures/methods.png>] [6
+ </home/jess/paper_analysis_cycle2/Media/pictures/methods.png>]
+<Media/pictures/seg_video.jpg, id=178, 1926.19624pt x 967.615pt>
+File: Media/pictures/seg_video.jpg Graphic file (type jpg)
+<use Media/pictures/seg_video.jpg>
+Package pdftex.def Info: Media/pictures/seg_video.jpg  used on input line 27.
+(pdftex.def)             Requested size: 1926.19156pt x 967.61266pt.
+\g__file_internal_ior=\read2
+<<VPlayer.swf>><<./Media/pictures/seg_video.mp4>> [6
 
-]) (/home/jess/paper_analysis_cycle2/Sections/05-evaluation-metrics.tex
-<Media/pictures/performance_metrics.jpg, id=198, 513.92pt x 206.7725pt>
+ </home/jess/paper_analysis_cycle2/Media/pictures/seg_video.jpg>]
+<Media/pictures/semantic.jpg, id=225, 1284.8pt x 722.7pt>
+File: Media/pictures/semantic.jpg Graphic file (type jpg)
+<use Media/pictures/semantic.jpg>
+Package pdftex.def Info: Media/pictures/semantic.jpg  used on input line 54.
+(pdftex.def)             Requested size: 151.67305pt x 85.30873pt.
+ [7
+
+ </home/jess/paper_analysis_cycle2/Media/pictures/semantic.jpg>]) (/home/jess/paper_analysis_cycle2/Sections/05-evaluation-metrics.tex
+<Media/pictures/performance_metrics.jpg, id=253, 513.92pt x 206.7725pt>
 File: Media/pictures/performance_metrics.jpg Graphic file (type jpg)
 <use Media/pictures/performance_metrics.jpg>
 Package pdftex.def Info: Media/pictures/performance_metrics.jpg  used on input line 21.
@@ -729,47 +1016,26 @@ Overfull \hbox (30.33414pt too wide) in paragraph at lines 21--21
  []
  []
 
-[7
+[8
 
  </home/jess/paper_analysis_cycle2/Media/pictures/performance_metrics.jpg>]
-<Media/pictures/iou_calc.png, id=226, 301.125pt x 234.8775pt>
+<Media/pictures/iou_calc.png, id=281, 301.125pt x 234.8775pt>
 File: Media/pictures/iou_calc.png Graphic file (type png)
 <use Media/pictures/iou_calc.png>
-Package pdftex.def Info: Media/pictures/iou_calc.png  used on input line 33.
+Package pdftex.def Info: Media/pictures/iou_calc.png  used on input line 31.
 (pdftex.def)             Requested size: 173.33496pt x 135.20761pt.
- [8
-
- </home/jess/paper_analysis_cycle2/Media/pictures/iou_calc.png>]
-<Media/pictures/iou.png, id=257, 602.25pt x 248.93pt>
-File: Media/pictures/iou.png Graphic file (type png)
-<use Media/pictures/iou.png>
-Package pdftex.def Info: Media/pictures/iou.png  used on input line 44.
-(pdftex.def)             Requested size: 260.00905pt x 107.47461pt.
  [9
 
+ </home/jess/paper_analysis_cycle2/Media/pictures/iou_calc.png>]
+<Media/pictures/iou.png, id=312, 602.25pt x 248.93pt>
+File: Media/pictures/iou.png Graphic file (type png)
+<use Media/pictures/iou.png>
+Package pdftex.def Info: Media/pictures/iou.png  used on input line 42.
+(pdftex.def)             Requested size: 260.00905pt x 107.47461pt.
+ [10
+
  </home/jess/paper_analysis_cycle2/Media/pictures/iou.png>]) (/home/jess/paper_analysis_cycle2/Sections/06-analysis.tex
-LaTeX Font Info:    Calculating math sizes for size <6.02252> on input line 32.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.21574> not available
-(Font)              size <5> substituted on input line 32.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.01126> not available
-(Font)              size <5> substituted on input line 32.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.21574> not available
-(Font)              size <5> substituted on input line 32.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.01126> not available
-(Font)              size <5> substituted on input line 32.
-
-[10
-
-]
-<Media/pictures/dnn.png, id=315, 707.64375pt x 646.415pt>
+<Media/pictures/dnn.png, id=343, 707.64375pt x 646.415pt>
 File: Media/pictures/dnn.png Graphic file (type png)
 <use Media/pictures/dnn.png>
 Package pdftex.def Info: Media/pictures/dnn.png  used on input line 51.
@@ -777,7 +1043,7 @@ Package pdftex.def Info: Media/pictures/dnn.png  used on input line 51.
  [11
 
  </home/jess/paper_analysis_cycle2/Media/pictures/dnn.png>]
-<Media/pictures/example.png, id=343, 780.9175pt x 652.4375pt>
+<Media/pictures/example.png, id=372, 780.9175pt x 652.4375pt>
 File: Media/pictures/example.png Graphic file (type png)
 <use Media/pictures/example.png>
 Package pdftex.def Info: Media/pictures/example.png  used on input line 77.
@@ -788,15 +1054,14 @@ Package pdftex.def Info: Media/pictures/example.png  used on input line 77.
 
 ]) (/home/jess/paper_analysis_cycle2/Sections/07-conclusion.tex [14
 
-]
-Overfull \vbox (49.68758pt too high) detected at line 61
- []
-
-[15
+] [15
 
 ]) (/home/jess/paper_analysis_cycle2/presentation.bbl) [16
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [17
+
+
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -806,32 +1071,27 @@ Overfull \vbox (49.68758pt too high) detected at line 61
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
  (/home/jess/paper_analysis_cycle2/presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.98874pt have occurred.
-
  ) 
 Here is how much of TeX's memory you used:
- 17321 strings out of 492982
- 333695 string characters out of 6134896
- 411470 words of memory out of 5000000
- 20399 multiletter control sequences out of 15000+600000
- 18549 words of font info for 68 fonts, out of 8000000 for 9000
+ 30454 strings out of 492982
+ 617485 string characters out of 6134896
+ 657066 words of memory out of 5000000
+ 33430 multiletter control sequences out of 15000+600000
+ 541466 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,55p,812b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on /home/jess/paper_analysis_cycle2/presentation.pdf (16 pages, 1605087 bytes).
+ 56i,15n,76p,10410b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on /home/jess/paper_analysis_cycle2/presentation.pdf (17 pages, 4733211 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
- 40 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 575 PDF objects out of 1000 (max. 8388607)
+ 502 compressed objects within 6 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 194 words of extra memory for PDF output out of 10000 (max. 10000000)
 

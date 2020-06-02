@@ -30,4 +30,8 @@ Shashikant, \emph{Convolutional neural network: A step by step guide}, 2019.
 \bibitem[Tiu19]{ioucalc}
 Ekin Tiu, \emph{Metrics to evaluate your semantic segmentation model}, 2019.
 
+\bibitem[Zha17]{semseg}
+Hengshuang Zhao, \emph{Icnet for real-time semantic segmentation on
+  high-resolution images}, 2017.
+
 \end{thebibliography}
